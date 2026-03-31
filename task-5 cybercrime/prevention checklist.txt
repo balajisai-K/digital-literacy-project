@@ -1,0 +1,12 @@
+Stay Safe Online Checklist:
+
+1. Use strong and unique passwords for all accounts.
+2. Enable two-factor authentication (2FA).
+3. Do not click on suspicious links or emails.
+4. Always verify the sender before sharing information.
+5. Avoid using public Wi-Fi for banking or transactions.
+6. Never share OTP, PIN, or passwords with anyone.
+7. Check for secure websites (https) before entering details.
+8. Regularly update your devices and applications.
+9. Report cybercrime at cybercrime.gov.in.
+10. Call helpline number 1930 in case of fraud.
