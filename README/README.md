@@ -1,9 +1,9 @@
 ?? Digital Literacy Project
 ?? Student Details
-* Name: k Balaji sai 
-* Registration Number: 25BCY10091
-* Branch: Cybersecurity and Digital Forensics (BCY)
-* Year: 1st Year
+* Name:Â k Balaji sai 
+* Registration Number:Â 25BCY10091
+* Branch:Â Cybersecurity and Digital Forensics (BCY)
+* Year:Â 1st Year
 
 ?? Project Overview
 This project was completed as part of the CSE0001 Digital Literacy course. The objective of this project is to understand the importance of digital literacy and to develop essential skills required to use digital tools safely and effectively.
@@ -25,7 +25,7 @@ Developed profiles on GitHub, LinkedIn, and CodeChef to establish a professional
 ?? Task 3: Platforms Exploration
 Solved a beginner-level coding problem on CodeChef and created a Google Form quiz for digital literacy awareness.
 ?? Task 4: Email Etiquette
-Drafted professional emails and created a social media do’s and don’ts checklist.
+Drafted professional emails and created a social media doâ€™s and donâ€™ts checklist.
 ?? Task 5: Cybercrime Awareness
 Prepared a case study on phishing and created a prevention checklist to promote online safety.
 
@@ -50,5 +50,5 @@ Click here to view the form
 ?? Conclusion
 This project helped me understand the importance of digital literacy and how to use digital tools responsibly. It improved my awareness of online safety, communication skills, and professional presence.
 
-? This project was created as part of the CSE0001 Digital Literacy course.
+?Â This project was created as part of the CSE0001 Digital Literacy course.
 
